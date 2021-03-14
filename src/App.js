@@ -1,6 +1,6 @@
 import "./App.css";
-import Users from "./components/Users";
-import store from './store';
+import Users from "./day1/components/Users";
+import store from './day2/store';
 
 function App() {
   return (
