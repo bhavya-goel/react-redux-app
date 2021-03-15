@@ -1,14 +1,12 @@
 import "./App.css";
-import Users from "./day1/components/Users";
-import store from './day2/store';
+import CounterUsingRedux from "./day3/CounterUsingRedux";
 
 function App() {
   return (
     <div className="App">
-      <Users />
+      <CounterUsingRedux />
     </div>
   );
 }
 
 export default App;
-
