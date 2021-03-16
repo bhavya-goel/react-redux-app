@@ -1,10 +1,10 @@
 import "./App.css";
-import CounterUsingRedux from "./day3/CounterUsingRedux";
+import Users from './day4/components/Users';
 
 function App() {
   return (
     <div className="App">
-      <CounterUsingRedux />
+      <Users />
     </div>
   );
 }
